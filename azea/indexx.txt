@@ -1,0 +1,273 @@
+<html>
+    <head>
+        <title>Azea Inshaat</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://meyerweb.com/eric/tools/css/reset"/>
+        <link rel="stylesheet" href="layout.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="mainpage">
+            <div class="container-fluid"></div>
+            <div class="row">
+                <div class="container">
+                    <div class="col-10">
+                        <i class="fa fa-map-marker"><span>Az?rbaycan, Baki, Nobel prospekti 15, Az1025</span></i>
+                        <i class="fa fa-phone"><span>(+99412) 409-32-46</span></i>
+                        <i class="fa fa-mobile"><span>(+994 51/55/70) 502 32 46</span></i>
+                        <a href="#" class="aze">Aze<i class="fa fa-angle-down"></i></a>                        
+                    </div>
+                    <div class="col-2 pull-right">
+                           <a href="#">
+                            <i class="fa fa-facebook-f"></i>
+                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-youtube"></i>
+                            <i class="fa fa-whatsapp"></i>
+                           </a>
+                    </div>
+                </div>
+            </div>
+            <section class="menu">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="logo">
+                                <a href="#"><img src="images/logo.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div class="container">
+                    <div class="row">
+                        <div class="col-8">
+                            <ul class="mainmenu">
+                                <li><a href="#">Ana s?hif?</a></li>
+                                <li><a href="#">Xidm?tl?timiz</a> </li>
+                                <li><a href="#">Haqqimizda</a></li>
+                                <li><a href="#">Layih?l?rimiz</a></li>
+                                <li><a href="#">?laq?</a></li>
+                            </ul>
+                        </div>    
+                    </div>
+                    </div>
+                    
+            </section>
+            <section class="slider">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12 change">
+                           <div class="container-fluid">
+                                <div class="btn-group">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-1 pull-left">
+                                                <div class="btn-left">
+                                                    <i class="fa fa-angle-left"></i>
+                                                </div>
+                                            </div>
+                                            <div class="col-1 pull-right">
+                                                <div class="btn-right pull-right">
+                                                    <i class="fa fa-angle-right"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="slide-info">
+                                                    <h1>G?l?c?yi tikirik, <br>keçmisi is? b?rpa edirik.</h1>
+                                                    <span>Butun landshaft ehtiyaclariniza tam qaygi</span>
+                                                    <div class="button"><a href="#">Lahiyelerimiz</a></div> 
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                 </div>    
+            </section>
+        </section>
+
+        <section class="yellow">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-8">
+                                <div class="words">
+                                    <span>X?yallarinizin evini layih?l?ndir?c?k v? tik?c?k profesionallari axtarirsiniz?</span>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="elaqe">
+                                    <a href="#">BIZIMLE ELAQE</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about">
+            <div class="container">
+                <div class="row">
+                   <div class="display">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-2">
+                                    <div class="leftwords">
+                                        <h1>Haqqimizda</h1>
+                                        <p>AZEA Insaat tikinti sektorunda özünü dogrultmus v? yüks?k s?viyy?d? xidm?t göst?r?n insaat sirk?tidir. <br>
+                                        AZEA Insaatin ?sas f?aliyy?t sah?si f?rdi evl?rin, inzibati binalarin, villalarin, ticar?t v? istehsalat t?yinatli obyekl?rin tikintisind?n v? t?mirind?n ibar?tdir.</p>                                        
+                                    </div>
+                                </div>
+                            </div>                         
+                                <div class="col-2">
+                                    <div class="rightwords">
+                                        <p>Pes?kar v? ciddi kollektivimiz, isinin ?sl pes?karlari olan müh?ndis, dizayner, memar, mexanik, elektrik, santexnik, smetaçi v? dig?r müt?x?sisl?rimiz tikinti prosesinin gedisatinin tam pes?karliqla aparilmasinda v? güv?nl? tamamlanib t?hvil verilm?sind? bütün gücl?ri il? çalisirlar.</p>
+                                        <a href="#">ETRAFLI</a>
+                                    </div>
+                                </div>
+                        </div>                         
+                                <div class="col-8">
+                                    <div class="img">
+                                        <img src="images/pic_8.jpg"/>                                    
+                                    </div>                                
+                                </div>                         
+                    </div>
+                </div>         
+            </div>
+            <section class="product">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-3"><div class="imagess"><img src="images/01.jpg"/>
+                            <div class="imagess-info"><span>Azea Construcion</span></div></div>
+                        </div>
+                        <div class="col-3"><div class="imagess"><img src="images/02.jpg"/>
+                            <div class="imagess-info"><span>Azea Construcion</span></div></div>
+                        </div>
+                        <div class="col-3"><div class="imagess"><img src="images/03.jpg"/>
+                            <div class="imagess-info"><span>Azea Construcion</span></div></div>
+                        </div>
+                        <div class="col-3"><div class="imagess"><img src="images/04.jpg"/>
+                            <div class="imagess-info"><span>Azea Construcion</span></div></div>
+                        </div>
+                    </div>
+                </div>
+            </section>          
+        </section>
+
+        <section class="services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="xidmet">
+                            <h1>Xidmetlerimiz</h1>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="parts">
+                            <ul>
+                                <li><a href="#">Idar?etm?</a></li>
+                                <li><a href="#">T?chizat</a></li>
+                                <li><a href="#">Dizayn</a></li>
+                                <li><a href="#">Tikinti</a></li>
+                                <li><a href="#">T?mir</a></li>
+                                <li><a href="#">Beton isl?ri</a></li>
+                                <li><a href="#">Plastik PVC</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="common">
+                        <div class="col-12">
+                            <div class="info">
+                                <p>AZEA Construction MMC-nin bütün layih?l?ri müst?ri m?mnunlugunu ?ld? etm?k üçün pes?kar menecerl?rin idar?çiliyi altinda h?yata keçirilir. Idar?etm? üsul v? metodlar layih?nin bütün m?rh?l?l?rind? t?tbiq olunur. H?r bir layih?ni idar? etm?k üçün Layih? menecerl?rin? birbasa tabe olunan layih? koordinatorlari t?yin olunur. Layih? il? bagli bütün m?suliyy?ti Layih? meneceri dasiyir v? müst?ri il? yalniz o ?laq?d? olur. Sirk?t daxili layih?y? lazim olan köm?klik v? d?st?yi is? layih? koordinatoru t?min edir. Sirk?tin bir çox menecer v? koordinatoru beyn?lxalq d?r?c?li treninql?rd? t?lim keçmis müt?x?ssisl?rdi.</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="second-yellow">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-3"><div class="number"><h1>4350</h1>Is saati</div></div>
+                            <div class="col-3"><div class="number"><h1>126</h1>Referanslar</div></div>
+                            <div class="col-3"><div class="number"><h1>10</h1>il bazarda</div></div>
+                            <div class="col-3"><div class="number"><h1>100</h1>Terefdas</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="title">
+                                    <img src="images/logo.png"/>
+                                    <span>AZEA Insaat tikinti sektorunda özünü dogrultmus v? yüks?k s?viyy?d? xidm?t göst?r?n insaat sirk?tidir.
+                                            AZEA Insaatin ?sas f?aliyy?t sah?si f?rdi evl?rin, inzibati binalarin, villalarin, ticar?t v? istehsalat t?yinatli obyekl?rin tikintisind?n v? t?mirind?n ibar?tdir.</span>
+                                </div>
+                            </div>
+                            
+
+                            <div class="col-4">
+                                <div class="map">
+                                    <h1>Unvanimiz Xeritede</h1>
+                                    <p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3039.427631500848!2d49.85401!3d40.377214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d079efb5163%3A0xc20aa51a5f0b5e01!2sCode+Academy!5e0!3m2!1sen!2s!4v1536411340789" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="contact">
+                                    <h1>Elaqe</h1>
+                                    <p>Unvan:<span>Az?rbaycan,Baki,Nobel prospekti 15, Az1025</span></p><hr>
+                                    <p>Tel:<span>Ofis: (012) 409 32 46</span></p><hr>
+                                    <p>Mob:<span>51/55/70 502 32 46</span></p><hr>
+                                    <p>Email:<span>info@azea.az</span></p><hr>
+                                    <p>Web:<span>www.azea.az</span></p><hr>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="end">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 pull-left">
+                                <div class="logoss">© 2017 - AZEA by
+                                    <img src="images/logovh.png"/>
+                                </div>
+                                <div class="social">
+                                    <a href="#">
+                                            <i class="fa fa-facebook-f"></i>
+                                            <i class="fa fa-instagram"></i>
+                                            <i class="fa fa-youtube"></i>
+                                            <i class="fa fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>   
+
+    </body>
+    </html>

@@ -1,0 +1,303 @@
+<html>
+    <head>
+        <title>Ana Sehife - Code Academy</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://meyerweb.com/eric/tools/css/reset"/>
+        <link rel="stylesheet" href="layout.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="liner">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="address">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <pre>Nizami küç?si 203B, AF Business House, 2-ci m?rt?b? | S?h?r telefonlarindan: +994125552525 | Mobil/Whatsapp: +994504442633</pre>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="home">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-3"><div class="logo"><a href="#"><img src="images/logo (1).png"/></a></div></div>
+                            <div class="col-6"><div class="menu">
+                                <ul>
+                                    <li><a href="#">Akademiya</a></li>
+                                    <li><a href="#">Tehsil</a></li>
+                                    <li><a href="#">Yenilikler</a></li>
+                                    <li><a href="#">Elaqe</a></li>
+                                </ul>
+                            </div>
+                            </div>
+                            <div class="col-3"><div class="search">
+                                <i class="fa fa-search"></i>
+                                <a href="#">Muraciet</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="slide">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-8"><div class="student"><img src="images/telebeler.jpg"/></div>                            
+                            </div>
+                            <div class="col-4"><div class="lessons">
+                                <div class="oktyabr">
+                                    <a href="#">
+                                        <h1>Yenilikler-06 Oktybar</h1>
+                                        <p>Azerbaycanli dizayner ACE sertifikatina yiyelenib</p>
+                                    </a>
+                                </div>
+                                <div class="iyul">
+                                    <a href="#">
+                                        <h1>Teqvim-27 Iyul</h1>
+                                        <p>Professional Diploma in Digital Marketing</p>
+                                    </a>
+                                </div>
+                                <div class="aprel">
+                                    <a href="#">
+                                        <h1>Teqvim-02 Aprel</h1>
+                                        <p>Digital marketingle tanisliq</p>
+                                    </a>
+                                </div>
+                                <div class="aprel-1">
+                                    <a href="#">
+                                        <h1>Teqvim-01 Aprel</h1>
+                                        <p>Veb dizayn, qrafika ve 3D modellesdirem ile tanisliq</p>
+                                    </a>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="icon">
+            <div class="container">
+                <div class="row">
+                    <div class="col-3">
+                        <a href="#"><div class="card"><i class="fa fa-address-card"></i></div>
+                            <div class="text1">Beynelxalq Sertifikasiya</div></a>
+                    </div>
+                    <div class="col-3"><a href="#"><div class="woman"><i class="fa fa-female"></i></div>
+                        <div class="text">Mentor Sistemi</div></a>
+                    </div>
+                    <div class="col-3"><a href="#"><div class="man"><i class="fa fa-user"></i></div>
+                        <div class="text">Mentor Sistemi</div></a>
+                    </div>
+                    <div class="col-3"><a href="#"><div class="bag"><i class="fa fa-briefcase"></i></div>
+                        <div class="text">Mentor Sistemi</div></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="tedris">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12"><div class="title"><h1>Tedris Proqramlarimiz</h1></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="tedris-2">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="program-item1"><img src="images/web_graphics.png"/><h1>qrafik ve veb <br> dizayn</h1></div>
+                            </div>
+                            <div class="col-4">
+                                <div class="program-item2"><img src="images/digital_media.png"/><h1>digital marketing</h1></div>
+                            </div>
+                            <div class="col-4">
+                                <div class="program-item3"><img src="images/programming.png"/><h1>proqramlasdirma</h1></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="program-item4"><img src="images/system_administration.png"/><h1>sistem <br>administratorlugu</h1></div>
+                            </div>
+                            <div class="col-4">
+                                <div class="program-item5"><img src="images/ms_office.png"/><h1>ms office</h1></div>
+                            </div>
+                            <div class="col-4">
+                                <div class="program-item6"><img src="images/3d_modelling.png"/><h1>3d modellesdireme<br> ve vizualizasiya</h1></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="support">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12"><div class="text"><h1>AKADEMIK PARTNYORLARIMIZ</h1></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="support2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-4"><div class="support-item1"><img src="images/autodesk-partner.png"/></div></div>
+                    <div class="col-4"><div class="support-item2"><img src="images/dmi-partner.png"/></div></div>
+                    <div class="col-4"><div class="support-item3"><img src="images/microsoft-partner.png"/></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="meeting">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12"><div class="background"><img src="images/student.png"/></div></div>
+                </div>
+                <div class="container">
+                        <div class="row">
+                            <div class="col-12"><div class="text"><h1>Sualiniz var? <span>Gelin, gorusek</span></h1></div></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12"><div class="border">
+                                <div class="input">
+                                    <input type="text" placeholder="Adiniz" name="name">
+                                    <span class="underline"></span>
+                                </div>
+                                <div class="input2">
+                                    <input type="text" placeholder="Soyadiniz" name="name">
+                                </div>
+                                <div class="input3">
+                                    <input type="text" placeholder="XXX-XX-XX" name="number">
+                                </div>
+                                <div class="send">
+                                    <h1>Gonder</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            
+        </section>
+
+        <section class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-2">
+                                <div class="info1">
+                                    <ul>
+                                        <li>
+                                            <h2>Akademiya</h2>
+                                            <ul>
+                                                <li><a href="#">Haqqimizda</a></li>
+                                                <li><a href="#">Idare Heyeti</a></li>
+                                                <li><a href="#">Muellimlerimiz</a></li>
+                                                <li><a href="#">Akademik partnyorlar</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                            
+                            </div>
+                            <div class="col-2">
+                                <div class="info2">
+                                    <ul>
+                                        <li>
+                                            <h2>Dersler</h2>
+                                            <ul>
+                                                <li><a href="#">Qrafik ve Veb dizayn</a></li>
+                                                <li><a href="#">Digital Marketing</a></li>
+                                                <li><a href="#">Proqramlasdiram</a></li>
+                                                <li><a href="#">Sistem administratorlugu</a></li>
+                                                <li><a href="#">MS office</a></li>
+                                                <li><a href="#">3D modellesdirme ve vizualizasiya</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="info3">
+                                    <ul>
+                                        <li>
+                                            <h2>Tehsil Modeli</h2>
+                                            <ul>
+                                                <li><a href="#">Zemanetli tehsil</a></li>
+                                                <li><a href="#">Tehsil Modeli</a></li>
+                                                <li><a href="#">Mentor Sistemi</a></li>
+                                                <li><a href="#">Beynelxalq Sertifikasiya</a></li>
+                                                <li><a href="#">Karyera merkezi</a></li>
+                                                <li><a href="#">Mezunlarimizin ugur hekayeleri</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="info4">
+                                    <ul>
+                                        <li>
+                                            <h2>Teqvim</h2>
+                                            <ul>
+                                                <li><a href="#">Infosessiyalar</a></li>
+                                                <li><a href="#">Gizlilik siyaseti</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="info5">
+                                    <h1>Elaqe</h1>
+                                    <span>Nizami küçesi 203B, AF<br> Business House, 2-ci m?rt?b?</span>
+                                    <a href="#" class="tel">Tel: +99412 555 2525</a>
+                                    <p>Mobile: <a href="#">+99450 444 2633</a> <br> Whatsapp: <a href="#">+99450 444 2633</a> </p>
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+
+       
+    </body>
+</html>
